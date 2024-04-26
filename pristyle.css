@@ -1,0 +1,140 @@
+body{
+    background-color: #E8DFCA;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.j1 {
+    font-size: 35px;
+    color: #222;
+    margin-top: 30px;
+    text-align: center;
+}
+.j2{
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
+.cal-container{
+    background: #222;
+    width: 300px;
+    height: 520px;
+    text-align: center;
+    border-radius: 12px;
+    border: 5px solid black;
+    margin:auto;
+    border-right: 10px solid black;
+    border-bottom: 10px solid black;
+}
+
+.clock{
+    position: relative;
+    top: 15px;
+    height: 40px;
+    width: 110px;
+    border: 4px;
+    left: 170px;
+    background: #413c3c;
+    /* border: olid blue; */
+    text-align: center;
+    border-radius: 3px;
+}
+
+#time{
+    color: rgb(255, 255, 255);
+    position: relative;
+    background: #413c3c;
+    width: 100px;
+    height: 25px;
+    top: 3px;
+    left: 3px;
+    padding-top: 6px;
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 3px;
+}
+
+.display{
+    background-color: black;
+    height: 45px;
+    position: relative;
+    display: inline-block;
+    top: 30px;
+    width: 265px;
+    border-radius: 5px;
+}
+
+#screen{
+    position: inherit;
+    height: 35px;
+    top: 2.5px;
+    width: 253px;
+    background: #bccd95;
+    text-align: right;
+    font-size: 1.5rem;
+    border-radius: 5px;
+}
+
+.keys{
+    position: relative;
+    top: 45px;
+}
+.btn{
+    color: black;
+    background: lightsteelblue;
+    cursor: pointer;
+    width: 45px;
+    margin-top: 2px 2px 2px 4px;
+    font-size: 0.9em;
+    text-align: center;
+    border-top: 2px solid transparent;
+    border: none;
+}
+.btn-sign{
+    background: #413c3c;
+    color: #ffff;
+    border-radius: 10px;
+    border-top: 2px solid #413c3c;
+    border-bottom: 2px solid #000;
+}
+.btn-sign:active{
+    border-bottom: 2px solid #413c3c;
+    border-top: 2px solid #000;
+}
+.btn-num{
+    background-color: black;
+    color: #ffff;
+    font-size: 1.1em;
+    border-radius: 6px;
+    border-bottom: 2px solid #3b3737;
+    border-top: 2px solid black;
+}
+.btn-num:active{
+    border-top: 2px solid #3b3737;
+    border-bottom: 2px solid black;
+}
+.btn-red{
+    background-color: blue;
+    color: #ffff;
+    padding: 4px;
+    font-size: 1.1em;
+    border-radius: 4px;
+    border-bottom: 2px solid #000;
+    border-top: 2px solid blue;
+    font-weight: 600;
+}
+.btn-red:active{
+    border-top: 2px solid #000;
+    border-bottom: 2px solid blue;
+}
+.btn-oper{
+    background: #111;
+    color: #ffff;
+    padding: 4px;
+    font-size: 1.1em;
+    border-radius: 5px;
+    border-bottom: 2px solid #111;
+    border-top: 2px solid #000;
+}
+.btn-oper:active{
+    border-top: 2px solid #111;
+    border-bottom: 2px solid #000;
+}
