@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Alizaaaja4/Web_Quizezzz/blob/main/coconut%20..png" width="200"></p>
+<p align="center"><img src="https://github.com/Alizaaaja4/Web_CalculatorPro/blob/main/Letter%20F%20Logo%20With%20Accounting%20and%20Calculator%20Concept..png" width="200"></p>
 <p align="center" style="font-size:20px;font-weight:600"><b>WELCOME TO CASIO SCIENTIFIC CALCULATOR</b>
 </p>
 <br>
