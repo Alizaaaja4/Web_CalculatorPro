@@ -75,7 +75,7 @@ function sine(){
     screen.value = Math.sin(screen.value * Math.PI / 100)
 }
 function cosine(){
-    screen.value = Math.cosine(screen.value * Math.PI / 100)
+    screen.value = Math.cos(screen.value * Math.PI / 100)
 }
 function tan(){
     screen.value = Math.tan(screen.value * Math.PI / 100)
